@@ -3,10 +3,9 @@ package Javaproject.src;
 
 import java.util.Scanner;
 
-import Javaproject.classes.Admin;
-import Javaproject.classes.librarian;
-import Javaproject.classes.user;
-import Javaproject.classes.validators;
+import Javaproject.models.Admin;
+import Javaproject.models.librarian;
+import Javaproject.models.user;
 
 
 class wrapper{

@@ -1,8 +1,8 @@
 package Javaproject.src;
 
-import Javaproject.classes.Admin;
-import Javaproject.classes.librarian;
-import Javaproject.classes.user;
+import Javaproject.models.Admin;
+import Javaproject.models.librarian;
+import Javaproject.models.user;
 
 public class loginSession {
     // boolean loginSucess;
